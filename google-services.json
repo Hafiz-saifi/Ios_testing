@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "737865687285",
+    "project_id": "flutternotifi-ba59f",
+    "storage_bucket": "flutternotifi-ba59f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737865687285:android:7cc0465e55a237d36ee5bc",
+        "android_client_info": {
+          "package_name": "com.example.demo_9july"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGWeC5gnU8gKYtOV_8Y474_LHF-DxeVQo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
